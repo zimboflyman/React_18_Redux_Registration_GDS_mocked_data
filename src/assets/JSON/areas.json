@@ -1,0 +1,182 @@
+[
+    {
+        "value": "",
+        "label": "Select Area"
+    },
+    {
+        "value": "All Areas",
+        "label": "All Areas"
+    },
+    {
+        "value": "Avon and Somerset",
+        "label": "Avon and Somerset"
+    },
+    {
+        "value": "Bedfordshire",
+        "label": "Bedfordshire"
+    },
+    {
+        "value": "Cambridgeshire",
+        "label": "Cambridgeshire"
+    },
+    {
+        "value": "Cheshire",
+        "label": "Cheshire"
+    },
+    {
+        "value": "Cleveland",
+        "label": "Cleveland"
+    },
+    {
+        "value": "Cumbria",
+        "label": "Cumbria"
+    },
+    {
+        "value": "Derbyshire",
+        "label": "Derbyshire"
+    },
+    {
+        "value": "Devon and Cornwall",
+        "label": "Devon and Cornwall"
+    },
+    {
+        "value": "Dorset",
+        "label": "Dorset"
+    },
+    {
+        "value": "Durham",
+        "label": "Durham"
+    },
+    {
+        "value": "County",
+        "label": "County"
+    },
+    {
+        "value": "Dyfed-Powys",
+        "label": "Dyfed-Powys"
+    },
+    {
+        "value": "Essex",
+        "label": "Essex"
+    },
+    {
+        "value": "Gloucestershire",
+        "label": "Gloucestershire"
+    },
+    {
+        "value": "Greater Manchester",
+        "label": "Greater Manchester"
+    },
+    {
+        "value": "Gwent",
+        "label": "Gwent"
+    },
+    {
+        "value": "Hampshire",
+        "label": "Hampshire"
+    },
+    {
+        "value": "Hertfordshire",
+        "label": "Hertfordshire"
+    },
+    {
+        "value": "Humberside",
+        "label": "Humberside"
+    },
+    {
+        "value": "Kent",
+        "label": "Kent"
+    },
+    {
+        "value": "Lancashire",
+        "label": "Lancashire"
+    },
+    {
+        "value": "Leicestershire",
+        "label": "Leicestershire"
+    },
+    {
+        "value": "Lincolnshire",
+        "label": "Lincolnshire"
+    },
+    {
+        "value": "London",
+        "label": "London"
+    },
+    {
+        "value": "Merseyside",
+        "label": "Merseyside"
+    },
+    {
+        "value": "Norfolk",
+        "label": "Norfolk"
+    },
+    {
+        "value": "North Wales",
+        "label": "North Wales"
+    },
+    {
+        "value": "North Yorkshire",
+        "label": "North Yorkshire"
+    },
+    {
+        "value": "Northamptonshire",
+        "label": "Northamptonshire"
+    },
+    {
+        "value": "Northumbria",
+        "label": "Northumbria"
+    },
+    {
+        "value": "Nottinghamshire",
+        "label": "Nottinghamshire"
+    },
+    {
+        "value": "South Wales",
+        "label": "South Wales"
+    },
+    {
+        "value": "South Yorkshire",
+        "label": "South Yorkshire"
+    },
+    {
+        "value": "Staffordshire",
+        "label": "Staffordshire"
+    },
+    {
+        "value": "Suffolk",
+        "label": "Suffolk"
+    },
+    {
+        "value": "Surrey",
+        "label": "Surrey"
+    },
+    {
+        "value": "Sussex",
+        "label": "Sussex"
+    },
+    {
+        "value": "Thames Valley",
+        "label": "Thames Valley"
+    },
+    {
+        "value": "Warwickshire",
+        "label": "Warwickshire"
+    },
+    {
+        "value": "West Mercia",
+        "label": "West Mercia"
+    },
+    {
+        "value": "West Midlands",
+        "label": "West Midlands"
+    },
+    {
+        "value": "West Yorkshire",
+        "label": "West Yorkshire"
+    },
+    {
+        "value": "Wiltshire",
+        "label": "Wiltshire"
+    }
+]

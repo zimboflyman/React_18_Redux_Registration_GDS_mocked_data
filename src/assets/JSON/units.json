@@ -1,0 +1,54 @@
+[
+    {
+        "value": "",
+        "label": "All Unit"
+    },
+    {
+        "value": "Blackfriars CC",
+        "label": "Blackfriars CC"
+    },
+    {
+        "value": "Central Criminal Court CC",
+        "label": "Central Criminal Court CC"
+    },
+    {
+        "value": "Croydon CC",
+        "label": "Croydon CC"
+    },
+    {
+        "value": "Harrow CC",
+        "label": "Harrow CC"
+    },
+    {
+        "value": "Inner London CC",
+        "label": "Inner London CC"
+    },
+    {
+        "value": "Isleworth CC",
+        "label": "Isleworth CC"
+    },
+    {
+        "value": "Kingston upon Thames CC",
+        "label": "Kingston upon Thames CC"
+    },
+    {
+        "value": "Middlesex Guildhall CC",
+        "label": "Middlesex Guildhall CC"
+    },
+    {
+        "value": "Snaresbrook CC",
+        "label": "Snaresbrook CC"
+    },
+    {
+        "value": "Southwark CC",
+        "label": "Southwark CC"
+    },
+    {
+        "value": "Wood Green CC",
+        "label": "Wood Green CC"
+    },
+    {
+        "value": "Woolwich CC",
+        "label": "Woolwich CC"
+    }
+]
