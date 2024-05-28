@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  app:
+    container_name: app-prod-c
+    image: app-prod-i
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+        - "8080:80"
+
+# use 
+# docker-compose -f docker-compose.prod.yml build
+# to build production image
+#
+# Start our production container on port 80 with the name XHIBIT-Portal
+# docker run -p 8080:80 --name XHIBIT-Portal app-prod
